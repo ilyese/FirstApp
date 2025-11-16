@@ -1,0 +1,26 @@
+{
+  "etudiant": {
+    "id": "ETU12345",
+    "nom": "Med Ali",
+    "prenom": "Ben Salah",
+    "filiere": "LIC",
+    "niveau":3
+  },
+  "notes": [
+    {
+      "matiere": "Mathématiques",
+      "note": 15.5,
+      "coefficient": 3
+    },
+    {
+      "matiere": "Programmation",
+      "note": 18.0,
+      "coefficient": 4
+    },
+    {
+      "matiere": "Base de données",
+      "note": 14.0,
+      "coefficient": 3
+    }
+  ]
+}
